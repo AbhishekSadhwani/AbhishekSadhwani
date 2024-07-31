@@ -39,8 +39,7 @@
 ---
 
 ### Spotify Playing 🎧
-[![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/track/5qaEfEh1AtSdrdrByCP7qR)
-
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31qrq23qfpaakar3ix3x6r4iwq3a&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 ---
