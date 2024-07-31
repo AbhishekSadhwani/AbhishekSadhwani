@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 💼 &nbsp; Associate Application Developer at Accenture India.
-- 🌱 &nbsp; Learning more Algorithms, Development and Finance.
+- 🌱 &nbsp; Learning more about Algorithms, Development, and Finance.
 - ⚡️ &nbsp; Fun fact: I like playing video games.
 
 ---
