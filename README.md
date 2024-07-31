@@ -2,10 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🤔 &nbsp; Fullstack Developer working remotely in India.
-- 💼 &nbsp; Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS), Backend (Python, Django, DRF) and Data Structures Algorithms).
-- 🌱 &nbsp; Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.
-- ⚡️ &nbsp; Fun fact: I like playing chess.
+- 💼 &nbsp; Associate Application Developer at Accenture India.
+- 🌱 &nbsp; Learning more Algorithms, Development and Finance.
+- ⚡️ &nbsp; Fun fact: I like playing video games.
 
 ---
 
@@ -56,6 +55,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abhishek-sadhwani-50a497167/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-abhisheksadhwani-blue"></a>
-<a href="https://www.instagram.com/abhisadhwani1304/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-abhisheksadhwani-red"></a>
-<a href="https://x.com/abhi_0413"><img alt="Twitter" src="https://img.shields.io/badge/twitter-abhisheksadhwani-blue"></a>
+<a href="https://www.instagram.com/abhishek_sadhwani/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-abhishek_sadhwani-red"></a>
+<a href="https://x.com/abhi_0413"><img alt="Twitter" src="https://img.shields.io/badge/twitter-abhi_0413-blue"></a>
 </p>
