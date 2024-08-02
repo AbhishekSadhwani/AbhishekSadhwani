@@ -58,7 +58,7 @@
 ### 🤝🏻 &nbsp;Connect with Me 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-sadhwani-50a497167/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-abhisheksadhwani-blue"></a>
-  <a href="https://www.instagram.com/abhishek_sadhwani/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-abhishek_sadhwani-942FC4"></a>
-  <a href="https://x.com/abhi_0413"><img alt="Twitter" src="https://img.shields.io/badge/twitter-abhi_0413-black"></a>
+  <a href="https://www.linkedin.com/in/abhishek-sadhwani-50a497167/"><img alt="LinkedIn" src="https://img.shields.io/badge/abhishek--sadhwani-0A66C2?style=flat&logo=linkedin&logoSize=auto"></a>
+  <a href="https://www.instagram.com/abhishek_sadhwani/"><img alt="Instagram" src="https://img.shields.io/badge/abhishek--sadhwani-E4405F?style=flat&logo=instagram&logoColor=white&logoSize=auto"></a>
+  <a href="https://x.com/abhi_0413"><img alt="Twitter" src="https://img.shields.io/badge/abhi_0413-black?style=flat&logo=x"></a>
 </p>
