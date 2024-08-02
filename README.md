@@ -59,6 +59,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-sadhwani-50a497167/"><img alt="LinkedIn" src="https://img.shields.io/badge/abhishek--sadhwani-0A66C2?style=flat&logo=linkedin&logoSize=auto"></a>
-  <a href="https://www.instagram.com/abhishek_sadhwani/"><img alt="Instagram" src="https://img.shields.io/badge/abhishek--sadhwani-E4405F?style=flat&logo=instagram&logoColor=white&logoSize=auto"></a>
-  <a href="https://x.com/abhi_0413"><img alt="Twitter" src="https://img.shields.io/badge/abhi_0413-black?style=flat&logo=x"></a>
+  <a href="https://www.instagram.com/abhishek_sadhwani/"><img alt="Instagram" src="https://img.shields.io/badge/abhishek__sadhwani-E4405F?style=flat&logo=instagram&logoColor=white&logoSize=auto"></a>
+  <a href="https://x.com/abhi_0413"><img alt="Twitter" src="https://img.shields.io/badge/abhi__0413-%235C5C5C?style=flat&logo=x&logoColor=white&logoSize=auto"></a>
 </p>
