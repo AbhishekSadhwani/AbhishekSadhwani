@@ -50,6 +50,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The JavaScript Launchpad: Start Your Coding Adventure](https://abhisheksadhwani.hashnode.dev/the-javascript-launchpad-start-your-coding-adventure)
 
 <!-- BLOG-POST-LIST:END -->
 
