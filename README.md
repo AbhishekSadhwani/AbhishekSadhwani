@@ -51,6 +51,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [The JavaScript Launchpad: Start Your Coding Adventure](https://abhisheksadhwani.hashnode.dev/the-javascript-launchpad-start-your-coding-adventure)
+- [Mastering Asynchronous JavaScript: A Deep Dive](https://abhisheksadhwani.hashnode.dev/mastering-asynchronous-javascript-a-deep-dive)
 
 <!-- BLOG-POST-LIST:END -->
 
