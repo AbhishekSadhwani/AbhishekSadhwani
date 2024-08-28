@@ -21,6 +21,7 @@
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
   ![Django REST Framework](https://img.shields.io/badge/-Django%20REST%20Framework-092E20?style=flat&logo=django)
   ![React JS](https://img.shields.io/badge/-React%20JS-333333?style=flat&logo=react)  
+  ![Next JS](https://img.shields.io/badge/Next_JS-%23000000?logo=nextdotjs)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
